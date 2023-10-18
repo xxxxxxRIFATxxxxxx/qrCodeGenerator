@@ -1,6 +1,6 @@
 import qrcode as qr
 
-data = 'https://wonderworlddigital.com/wwd021.html'
+data = 'https://wonderworlddigital.com/wwd022.html'
 
 # Encoding data using make() function
 img = qr.make(data)

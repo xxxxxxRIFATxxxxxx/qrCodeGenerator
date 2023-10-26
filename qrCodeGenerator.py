@@ -12,7 +12,7 @@ img.save('mayan.png')
 # import qrcode as qr
 
 # # Load the JSON data
-# with open('./100_guest.json', 'r') as file:
+# with open('./200_guest.json', 'r') as file:
 #     data = json.load(file)
 
 # # Assuming your JSON structure is a list of dictionaries with an 'id' key:
